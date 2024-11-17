@@ -24,13 +24,17 @@ Para aplicar los filtros, utilizamos el botón de filtro ubicado en la parte sup
 En el tablero de ZenHub, se puede filtrar las issues para enfocarte en diferentes tipos de trabajo:
 
 Filtrar Epics: Utilizamos el filtro de tipo "Epic" para identificar las tareas correspondientes a esta clase.
+
 ![image](https://github.com/user-attachments/assets/ea6f9883-aebb-4768-a804-301d83a977f3)
 
 Filtrar User Stories: Cambia el filtro a "User Story (US)" para ver las funcionalidades que deben ser desarrolladas.
+
 ![image](https://github.com/user-attachments/assets/5d678d8c-8f89-4956-b8a8-3585efd2606d)
 
 Filtrar Tasks: Puedes ver tareas específicas relacionadas con cada user story filtrando por "Tasks".
+
 ![image](https://github.com/user-attachments/assets/4bf21c27-0374-46a4-b250-44b981cf5ac0)
+
 
 # 3. Tareas del 1er Release en el Sprint Backlog (5%)
 
