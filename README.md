@@ -40,17 +40,22 @@ Filtrar Tasks: Puedes ver tareas específicas relacionadas con cada user story f
 
 Las tareas relacionadas con el 1er Release deben ser movidas al Sprint Backlog. En ZenHub:
 
-Arrastra las tareas de la columna "New Issues" hacia la columna Sprint Backlog.
+Para ello arrastramos las tareas del 1er release de la columna "New Issues" hacia la columna Sprint Backlog:
 
-Asegúrate de que cada tarea tiene una descripción clara del trabajo a realizar y está asignada a alguien del equipo.
+
+![image](https://github.com/user-attachments/assets/af6242c3-af59-4215-9996-6287e5a9459f)
+
 
 # 4. Tareas del 1er Release en Progreso en Diferentes Columnas (10%)
 
 Solo las tareas de tipo TASK deben ser movidas de una columna a otra a medida que progresan.
 
-Mover Tareas a Progreso: Arrastra las tareas del Sprint Backlog hacia la columna In Progress.
+Para Mover Tareas a Progreso: Hay que arrastrar las tareas del Sprint Backlog hacia la columna In Progress.
 
 Cuando se complete una tarea, muévela a la columna Review para ser revisada por otro miembro del equipo antes de marcarla como "Done".
+
+![image](https://github.com/user-attachments/assets/a883d8f7-a1cf-4abc-94b1-d5edbc361345)
+
 
 # 5. Cierre del 1er Release (5%)
 
@@ -62,6 +67,9 @@ Marca el epic correspondiente como completado.
 
 Realiza una revisión general para verificar si se cumplieron todos los criterios de aceptación definidos en el epic.
 
+![image](https://github.com/user-attachments/assets/ca810a47-0fdb-40e9-ba56-cdb710d9dd6b)
+
+
 # 6. Comienzo de la 2da Release (10%)
 
 Inicia el trabajo para la 2da Release creando un nuevo epic y asignando nuevas user stories y tareas al backlog.
@@ -70,13 +78,18 @@ Organiza el Sprint Backlog y asegúrate de que las tareas estén claramente defi
 
 Asigna tareas a los miembros del equipo para comenzar la nueva fase del proyecto.
 
+![image](https://github.com/user-attachments/assets/35731d33-282e-4837-828f-4a3ac04b605f)
+
+
 # 7. Tareas de la 2da Release en Progreso y Filtradas por Algún Tópico (15%)
 
 En la 2da Release, puedes trabajar las tareas utilizando filtros para enfocarte en un tópico específico:
 
-Filtra las tareas utilizando tags o etiquetas que se han definido para categorizar las tareas, por ejemplo, "frontend" o "backend".
+Filtra las tareas utilizando tags o etiquetas que se han definido para categorizar las tareas, en este caso .
 
-Asegúrate de mover las tareas al estado correspondiente ("In Progress", "Review", "Done") según su estado de avance.
+
+![image](https://github.com/user-attachments/assets/92e9092d-ae21-4e06-8bf1-dbd7cb4a1271)
+
 
 # 8. Imagen de Conversación en Dos Tareas (10%)
 
@@ -85,3 +98,6 @@ Es importante mostrar la colaboración entre los miembros del equipo:
 Toma una captura de pantalla de la conversación sobre dos tareas en particular. Puedes hacerlo desde la sección de comentarios de las tareas en GitHub o ZenHub.
 
 La conversación debe reflejar discusiones relevantes sobre el progreso de las tareas, retroalimentación recibida o cualquier solución a problemas encontrados.
+
+![image](https://github.com/user-attachments/assets/25e68c9e-5ed1-4b5d-aae5-52815648422c)
+
