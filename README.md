@@ -82,22 +82,22 @@ Una vez completada la "Task" la deberemos de moverla a la columna "Review" para 
 
 Para cerrar el 1er Release:
 
-Nos aseguraremos de que todas las tareas del 1er release se encuentren en la columna "Done".
+Una vez nos hayamos asegurado de que todas las tareas del 1er release se encuentren en la columna "Done", marcaermos el epic correspondiente como completado.
 
-Marca el epic correspondiente como completado.
-
-Realiza una revisión general para verificar si se cumplieron todos los criterios de aceptación definidos en el epic.
+Realizaremos una revisión general para comprobar si se cumplieron todos los criterios de aceptación definidos en el epic.
 
 ![image](https://github.com/user-attachments/assets/ca810a47-0fdb-40e9-ba56-cdb710d9dd6b)
 
 
 # 6. Comienzo de la 2da Release (10%)
 
-Inicia el trabajo para la 2da Release creando un nuevo epic y asignando nuevas user stories y tareas al backlog.
+Para iniciar la 2da Release:
 
-Organiza el Sprint Backlog y asegúrate de que las tareas estén claramente definidas.
+Primeros crearemos un nuevo epic y le asignaremos sus "User Stories" y "Task".
 
-Asigna tareas a los miembros del equipo para comenzar la nueva fase del proyecto.
+Organizamos el "Sprint Backlog" y nos aseguraremos de que todas las tareas estén claramente definidas.
+
+Por último asignamos tareas a los miembros del equipo para poder comenzar la nueva fase del proyecto.
 
 ![image](https://github.com/user-attachments/assets/35731d33-282e-4837-828f-4a3ac04b605f)
 
