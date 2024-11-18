@@ -7,8 +7,11 @@ Incluid debajo el nombre de los miembros del grupo: Oscar Fuentes Paniego, Diego
 
 # 1. Fase de GitHub y ZenHub (15%)
 Enlace al repositorio:
+
 https://github.com/oscarfp6/GESPRO_Practica_2_Curso_2024_2025
+
 Este es nuestro repositorio:
+
 ![image](https://github.com/user-attachments/assets/a0c8da1b-10d7-45be-a75f-88604889e9d6)
 
 
@@ -18,13 +21,14 @@ Clonar el repositorio en sus computadoras locales utilizando Git. Puedes hacerlo
 
 git clone <URL_del_repositorio>
 O pulsar en fork, en la parte superior derecha
+
 ![image](https://github.com/user-attachments/assets/fbe95e47-8be2-434a-a9e6-37e8b853c48a)
 
 
 Instalar la extensión ZenHub en su navegador. Esto permitirá visualizar y gestionar el tablero Kanban integrado con GitHub. Pueden hacerlo por ejemplo desde la
 chrome web store:
-![image](https://github.com/user-attachments/assets/2eeafb59-e542-49bf-9a31-d7a6c7a9d53c)
 
+![image](https://github.com/user-attachments/assets/2eeafb59-e542-49bf-9a31-d7a6c7a9d53c)
 
 
 Configurar sus cuentas y asegurarse de que estén vinculadas al repositorio adecuado. Asegúrate de estar autenticado en GitHub y de tener acceso al proyecto compartido.
@@ -36,7 +40,9 @@ En la siguiente imagen se ve que estamos tanto autentificados (aparece el avatar
 Explorar el Tablero ZenHub: Abre el tablero de ZenHub, donde podrás ver los epics, user stories (US), y tareas del proyecto.
 Para entrar en el tablero Zenhub simplemente, dentro del repositorio, pulsamos en Zenhub.
 Este es el tablero de nuestro proyecto:
+
 ![image](https://github.com/user-attachments/assets/0840aa90-2ea9-4c1b-99ee-878d09fc837d)
+
 por defecto tenemos los nuevos issues a la izquierda del tablero. En la imagen no se ve para abarcar todos los campos del tablero
 
 
