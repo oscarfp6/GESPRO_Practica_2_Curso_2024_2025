@@ -6,6 +6,11 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 Incluid debajo el nombre de los miembros del grupo: Oscar Fuentes Paniego, Diego Alonso Soria y Roberto García Varona
 
 # 1. Fase de GitHub y ZenHub (15%)
+Enlace al repositorio:
+https://github.com/oscarfp6/GESPRO_Practica_2_Curso_2024_2025
+Este es nuestro repositorio:
+![image](https://github.com/user-attachments/assets/a0c8da1b-10d7-45be-a75f-88604889e9d6)
+
 
 Para comenzar a interactuar con el proyecto, los usuarios deben:
 
