@@ -17,12 +17,27 @@ Para comenzar a interactuar con el proyecto, los usuarios deben:
 Clonar el repositorio en sus computadoras locales utilizando Git. Puedes hacerlo con el siguiente comando:
 
 git clone <URL_del_repositorio>
+O pulsar en fork, en la parte superior derecha
+![image](https://github.com/user-attachments/assets/fbe95e47-8be2-434a-a9e6-37e8b853c48a)
 
-Instalar la extensión ZenHub en su navegador. Esto permitirá visualizar y gestionar el tablero Kanban integrado con GitHub.
+
+Instalar la extensión ZenHub en su navegador. Esto permitirá visualizar y gestionar el tablero Kanban integrado con GitHub. Pueden hacerlo por ejemplo desde la
+chrome web store:
+![image](https://github.com/user-attachments/assets/2eeafb59-e542-49bf-9a31-d7a6c7a9d53c)
+
+
 
 Configurar sus cuentas y asegurarse de que estén vinculadas al repositorio adecuado. Asegúrate de estar autenticado en GitHub y de tener acceso al proyecto compartido.
+En la siguiente imagen se ve que estamos tanto autentificados (aparece el avatar de nuestro usuario) como vinculados al repositorio adecuado, que aparece debajo en top repositories
+![image](https://github.com/user-attachments/assets/7bacd88c-a71c-45d8-b7a5-8bcf3a6b2e16)
+
 
 Explorar el Tablero ZenHub: Abre el tablero de ZenHub, donde podrás ver los epics, user stories (US), y tareas del proyecto.
+Para entrar en el tablero Zenhub simplemente, dentro del repositorio, pulsamos en Zenhub.
+Este es el tablero de nuestro proyecto:
+![image](https://github.com/user-attachments/assets/0840aa90-2ea9-4c1b-99ee-878d09fc837d)
+por defecto tenemos los nuevos issues a la izquierda del tablero. En la imagen no se ve para abarcar todos los campos del tablero
+
 
 # 2. Filtro por Epics, User Stories (US) y Tasks en la Columna de "New Issues" (15%)
 Para aplicar los filtros, utilizamos el botón de filtro ubicado en la parte superior del tablero y selecciona "New Issues" para ver las tareas recién creadas.
