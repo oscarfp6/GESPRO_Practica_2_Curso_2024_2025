@@ -69,11 +69,11 @@ Para ello arrastraremos las tareas del 1er release que se encuentran en la colum
 
 # 4. Tareas del 1er Release en Progreso en Diferentes Columnas (10%)
 
-Solo las tareas de tipo TASK deben ser movidas de una columna a otra a medida que progresan.
+Solo las tareas de tipo "Task" son las que deben de ser movidas de una columna a otra a medida que estas tareas van progresando.
 
-Para Mover Tareas a Progreso: Hay que arrastrar las tareas del Sprint Backlog hacia la columna In Progress.
+Para mover las "Task" a la columna "In progress", tendremos que arrastrar las tareas que se encuentren en la columna "Sprint Backlog" hacia la columna "In Progress".
 
-Cuando se complete una tarea, muévela a la columna Review para ser revisada por otro miembro del equipo antes de marcarla como "Done".
+Una vez completada la "Task" la deberemos de moverla a la columna "Review" para que la tarea sea revisada por otro miembro del equipo antes de marcarla como "Done".
 
 ![image](https://github.com/user-attachments/assets/a883d8f7-a1cf-4abc-94b1-d5edbc361345)
 
