@@ -40,8 +40,9 @@ por defecto tenemos los nuevos issues a la izquierda del tablero. En la imagen n
 
 
 # 2. Filtro por Epics, User Stories (US) y Tasks en la Columna de "New Issues" (15%)
-Para aplicar los filtros, utilizamos el botón de filtro ubicado en la parte superior del tablero y selecciona "New Issues" para ver las tareas recién creadas.
-En el tablero de ZenHub, se puede filtrar las issues para enfocarte en diferentes tipos de trabajo:
+En el tablero de ZenHub para utilizar los filtros, usando el botón de "Filter by label" ubicado en la parte superior del tablero y escribiendo la palabra clase que queramos, podremos enfocarnos en diferentes tipos de trabajo, como veremos a continuación. 
+
+En la columna de "New Issues" veremos cuales son las tareas recién creadas.
 
 Filtrar Epics: Utilizamos el filtro de tipo "Epic" para identificar las tareas correspondientes a esta clase.
 
