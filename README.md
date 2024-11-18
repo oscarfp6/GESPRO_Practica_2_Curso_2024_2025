@@ -107,11 +107,9 @@ Por último asignamos tareas a los miembros del equipo para poder comenzar la nu
 ![image](https://github.com/user-attachments/assets/35731d33-282e-4837-828f-4a3ac04b605f)
 
 
-# 7. Tareas de la 2da Release en Progreso y Filtradas por Algún Tópico (15%)
+# 7. Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 
-En la 2da Release, puedes trabajar las tareas utilizando filtros para enfocarte en un tópico específico:
-
-Filtra las tareas utilizando tags o etiquetas que se han definido para categorizar las tareas, en este caso .
+En la 2da Release, trabajaremos las tareas utilizando los filtros como hemos visto en el aparatado 2, para asi poder enfocarnos en un "Topic" específico, por ejemplo:
 
 
 ![image](https://github.com/user-attachments/assets/92e9092d-ae21-4e06-8bf1-dbd7cb4a1271)
