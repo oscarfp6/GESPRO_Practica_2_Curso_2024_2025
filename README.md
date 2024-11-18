@@ -59,9 +59,9 @@ Filtrar Tasks: Puedes ver tareas específicas relacionadas con cada user story f
 
 # 3. Tareas del 1er Release en el Sprint Backlog (5%)
 
-Las tareas relacionadas con el 1er Release deben ser movidas al Sprint Backlog. En ZenHub:
+Las tareas relacionadas con el 1er Release deben ser movidas al "Sprint Backlog".
 
-Para ello arrastramos las tareas del 1er release de la columna "New Issues" hacia la columna Sprint Backlog:
+Para ello arrastraremos las tareas del 1er release que se encuentran en la columna "New Issues" a la columna "Sprint Backlog":
 
 
 ![image](https://github.com/user-attachments/assets/af6242c3-af59-4215-9996-6287e5a9459f)
@@ -82,7 +82,7 @@ Cuando se complete una tarea, muévela a la columna Review para ser revisada por
 
 Para cerrar el 1er Release:
 
-Asegúrate de que todas las tareas estén movidas a la columna Done.
+Nos aseguraremos de que todas las tareas del 1er release se encuentren en la columna "Done".
 
 Marca el epic correspondiente como completado.
 
