@@ -29,6 +29,7 @@ chrome web store:
 
 Configurar sus cuentas y asegurarse de que estén vinculadas al repositorio adecuado. Asegúrate de estar autenticado en GitHub y de tener acceso al proyecto compartido.
 En la siguiente imagen se ve que estamos tanto autentificados (aparece el avatar de nuestro usuario) como vinculados al repositorio adecuado, que aparece debajo en top repositories
+
 ![image](https://github.com/user-attachments/assets/7bacd88c-a71c-45d8-b7a5-8bcf3a6b2e16)
 
 
