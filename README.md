@@ -13,8 +13,8 @@ Este es nuestro repositorio:
 ![image](https://github.com/user-attachments/assets/a0c8da1b-10d7-45be-a75f-88604889e9d6)
 
 
-Para comenzar a interactuar con el proyecto, los usuarios deben:
 
+Para comenzar a interactuar con el proyecto, los usuarios deben:
 Clonar el repositorio en sus computadoras locales utilizando Git. Puedes hacerlo con el siguiente comando:
 
 git clone <URL_del_repositorio>
